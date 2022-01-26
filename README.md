@@ -1,2 +1,2 @@
 # Researches
-Repository of my stydies of technology
+Repository of my stydies in technology
